@@ -1,0 +1,57 @@
+/* mobile */
+@media screen and (max-width: 425px) {
+    .sm-bg-blue {
+        background-color: #ACC8E5;
+    }
+
+    .sm-text-brown {
+        color: #5B0606;
+    }
+
+    .sm-text-center	{
+        text-align: center;
+    }
+
+    .sm-pt-11 {
+        padding-top: 2.75rem; /* 44px */
+      }
+}
+
+/* tablette */
+
+@media screen and (min-width: 768px) {
+    .md-bg-purple {
+        background-color: #5D159B;
+    }
+
+    .md-text-turquoise {
+        color: #00FFF7;
+    }
+
+    .md-text-center	{
+        text-align: center;
+    }
+
+    .md-pt-11 {
+        padding-top: 2.75rem; /* 44px */
+      }
+}
+
+/*  */
+@media screen and (min-width: 1024px) {
+    .lg-bg-green {
+        background-color: #169C39;
+    }
+
+    .lg-text-center	{
+        text-align: center;
+    }
+    
+    .lg-text-black	{
+        color: #000000;
+    }
+    
+    .lg-pt-11 {
+      padding-top: 2.75rem; /* 44px */
+    }
+}
